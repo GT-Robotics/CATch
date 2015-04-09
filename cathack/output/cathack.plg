@@ -1,0 +1,361 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\cathack.uvproj
+Project File Date:  04/08/2015
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+src\main.c(100): warning:  #951-D: return type of function "main" must be "int"
+src\main.c(119): warning:  #223-D: function "delay" declared implicitly
+linking...
+.\output\cathack.axf: Error: L6218E: Undefined symbol delay (referred from main.o).
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(100): warning:  #951-D: return type of function "main" must be "int"
+linking...
+Program Size: Code=10884 RO-data=352 RW-data=44 ZI-data=1636  
+FromELF: creating hex file...
+".\output\cathack.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+src\main.c(139): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10884 RO-data=352 RW-data=44 ZI-data=1636  
+FromELF: creating hex file...
+".\output\cathack.axf" - 0 Error(s), 1 Warning(s).
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+Connected via SWD.
+Device ID:0x440 
+Device family :STM32F0xx
+Flash Programming:
+  File : C:\Users\HunJ_VAIO\Google Flash Programming...
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±± 0%€€€€€€€€€ 18%€€€€€€€€€ 36%€€€€€€€€€ 54%€€€€€€€€€ 72%€€€€€€€€€ 90%€€€€€ 100%
+Flash memory programmed in 0mn and 2s and 12ms.
+Programming Complete.
+MCU Reset.
+Build target 'Target 1'
+compiling main.c...
+src\main.c(140): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10900 RO-data=352 RW-data=44 ZI-data=1636  
+FromELF: creating hex file...
+".\output\cathack.axf" - 0 Error(s), 1 Warning(s).
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+Connected via SWD.
+Device ID:0x440 
+Device family :STM32F0xx
+Flash Programming:
+  File : C:\Users\HunJ_VAIO\Google Flash Programming...
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±± 0%€€€€€€€€€ 18%€€€€€€€€€ 36%€€€€€€€€€ 54%€€€€€€€€€ 72%€€€€€€€€€ 90%€€€€€ 100%
+Flash memory programmed in 0mn and 1s and 919ms.
+Programming Complete.
+MCU Reset.
+Build target 'Target 1'
+compiling main.c...
+src\main.c(140): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10900 RO-data=352 RW-data=44 ZI-data=1636  
+FromELF: creating hex file...
+".\output\cathack.axf" - 0 Error(s), 1 Warning(s).
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+Connected via SWD.
+Device ID:0x440 
+Device family :STM32F0xx
+Flash Programming:
+  File : C:\Users\HunJ_VAIO\Google Flash Programming...
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±± 0%€€€€€€€€€ 18%€€€€€€€€€ 36%€€€€€€€€€ 54%€€€€€€€€€ 72%€€€€€€€€€ 90%€€€€€ 100%
+Flash memory programmed in 0mn and 1s and 888ms.
+Programming Complete.
+MCU Reset.
+Build target 'Target 1'
+compiling main.c...
+src\main.c(140): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10904 RO-data=352 RW-data=44 ZI-data=1636  
+FromELF: creating hex file...
+".\output\cathack.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+src\main.c(140): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10904 RO-data=352 RW-data=44 ZI-data=1636  
+FromELF: creating hex file...
+".\output\cathack.axf" - 0 Error(s), 1 Warning(s).
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+Connected via SWD.
+Device ID:0x440 
+Device family :STM32F0xx
+Flash Programming:
+  File : C:\Users\HunJ_VAIO\Google Flash Programming...
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±± 0%€€€€€€€€€ 18%€€€€€€€€€ 36%€€€€€€€€€ 54%€€€€€€€€€ 72%€€€€€€€€€ 90%€€€€€ 100%
+Flash memory programmed in 0mn and 1s and 825ms.
+Programming Complete.
+MCU Reset.
+Build target 'Target 1'
+compiling main.c...
+src\main.c(142): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=7640 RO-data=224 RW-data=44 ZI-data=1636  
+FromELF: creating hex file...
+".\output\cathack.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=7640 RO-data=224 RW-data=44 ZI-data=1636  
+FromELF: creating hex file...
+".\output\cathack.axf" - 0 Error(s), 0 Warning(s).
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+Connected via SWD.
+Device ID:0x440 
+Device family :STM32F0xx
+Flash Programming:
+  File : C:\Users\HunJ_VAIO\Google Flash Programming...
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±± 0%€€€€€€€€€€€€ 25%€€€€€€€€€€€€€ 51%€€€€€€€€€€€€€ 77%€€€€€€€€€€€€ 100%
+Flash memory programmed in 0mn and 1s and 263ms.
+Programming Complete.
+MCU Reset.
+Build target 'Target 1'
+compiling main.c...
+src\main.c(145): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=7660 RO-data=224 RW-data=44 ZI-data=1636  
+FromELF: creating hex file...
+".\output\cathack.axf" - 0 Error(s), 1 Warning(s).
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+Connected via SWD.
+Device ID:0x440 
+Device family :STM32F0xx
+Flash Programming:
+  File : C:\Users\HunJ_VAIO\Google Flash Programming...
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±± 0%€€€€€€€€€€€€ 25%€€€€€€€€€€€€€ 51%€€€€€€€€€€€€€ 77%€€€€€€€€€€€€ 100%
+Flash memory programmed in 0mn and 1s and 279ms.
+Programming Complete.
+MCU Reset.
+Build target 'Target 1'
+compiling main.c...
+src\main.c(145): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=7660 RO-data=224 RW-data=44 ZI-data=1636  
+FromELF: creating hex file...
+".\output\cathack.axf" - 0 Error(s), 1 Warning(s).
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+Connected via SWD.
+Device ID:0x440 
+Device family :STM32F0xx
+Flash Programming:
+  File : C:\Users\HunJ_VAIO\Google Flash Programming...
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±± 0%€€€€€€€€€€€€ 25%€€€€€€€€€€€€€ 51%€€€€€€€€€€€€€ 77%€€€€€€€€€€€€ 100%
+Flash memory programmed in 0mn and 1s and 248ms.
+Programming Complete.
+MCU Reset.
+Build target 'Target 1'
+compiling main.c...
+src\main.c(145): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=7664 RO-data=224 RW-data=44 ZI-data=1636  
+FromELF: creating hex file...
+".\output\cathack.axf" - 0 Error(s), 1 Warning(s).
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+Connected via SWD.
+Device ID:0x440 
+Device family :STM32F0xx
+Flash Programming:
+  File : C:\Users\HunJ_VAIO\Google Flash Programming...
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±± 0%€€€€€€€€€€€€ 25%€€€€€€€€€€€€€ 51%€€€€€€€€€€€€€ 77%€€€€€€€€€€€€ 100%
+Flash memory programmed in 0mn and 1s and 232ms.
+Programming Complete.
+MCU Reset.
+Build target 'Target 1'
+compiling main.c...
+src\main.c(145): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=7664 RO-data=224 RW-data=44 ZI-data=1636  
+FromELF: creating hex file...
+".\output\cathack.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+src\main.c(145): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=7664 RO-data=224 RW-data=44 ZI-data=1636  
+FromELF: creating hex file...
+".\output\cathack.axf" - 0 Error(s), 1 Warning(s).
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+Connected via SWD.
+Device ID:0x440 
+Device family :STM32F0xx
+Flash Programming:
+  File : C:\Users\HunJ_VAIO\Google Flash Programming...
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±± 0%€€€€€€€€€€€€ 25%€€€€€€€€€€€€€ 51%€€€€€€€€€€€€€ 77%€€€€€€€€€€€€ 100%
+Flash memory programmed in 0mn and 1s and 264ms.
+Programming Complete.
+MCU Reset.
+Build target 'Target 1'
+compiling main.c...
+src\main.c(145): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=7660 RO-data=224 RW-data=44 ZI-data=1636  
+FromELF: creating hex file...
+".\output\cathack.axf" - 0 Error(s), 1 Warning(s).
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+Connected via SWD.
+Device ID:0x440 
+Device family :STM32F0xx
+Flash Programming:
+  File : C:\Users\HunJ_VAIO\Google Flash Programming...
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±± 0%€€€€€€€€€€€€ 25%€€€€€€€€€€€€€ 51%€€€€€€€€€€€€€ 77%€€€€€€€€€€€€ 100%
+Flash memory programmed in 0mn and 1s and 279ms.
+Programming Complete.
+MCU Reset.
+Build target 'Target 1'
+compiling main.c...
+src\main.c(148): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=7636 RO-data=224 RW-data=44 ZI-data=1636  
+FromELF: creating hex file...
+".\output\cathack.axf" - 0 Error(s), 1 Warning(s).
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+Build target 'Target 1'
+linking...
+Program Size: Code=7636 RO-data=224 RW-data=44 ZI-data=1636  
+FromELF: creating hex file...
+".\output\cathack.axf" - 0 Error(s), 0 Warning(s).
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+Connected via SWD.
+Device ID:0x440 
+Device family :STM32F0xx
+Flash Programming:
+  File : C:\Users\HunJ_VAIO\Google Flash Programming...
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±± 0%€€€€€€€€€€€€ 25%€€€€€€€€€€€€€ 51%€€€€€€€€€€€€€ 77%€€€€€€€€€€€€ 100%
+Flash memory programmed in 0mn and 1s and 264ms.
+Programming Complete.
+MCU Reset.
+Build target 'Target 1'
+compiling main.c...
+src\main.c(148): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=7644 RO-data=224 RW-data=44 ZI-data=1636  
+FromELF: creating hex file...
+".\output\cathack.axf" - 0 Error(s), 1 Warning(s).
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+No STLink detected
+Cannot connect to ST-LINK!
+No STLink detected
+Cannot connect to ST-LINK!
+No STLink detected
+Cannot connect to ST-LINK!
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+No STLink detected
+Cannot connect to ST-LINK!
+No STLink detected
+Cannot connect to ST-LINK!
+No STLink detected
+Cannot connect to ST-LINK!
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+Connected via SWD.
+Device ID:0x440 
+Device family :STM32F0xx
+Flash Programming:
+  File : C:\Users\HunJ_VAIO\Google Flash Programming...
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±± 0%€€€€€€€€€€€€ 25%€€€€€€€€€€€€€ 51%€€€€€€€€€€€€€ 77%€€€€€€€€€€€€ 100%
+Flash memory programmed in 0mn and 1s and 279ms.
+Programming Complete.
+MCU Reset.
+Build target 'Target 1'
+compiling main.c...
+src\main.c(148): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=7644 RO-data=224 RW-data=44 ZI-data=1636  
+FromELF: creating hex file...
+".\output\cathack.axf" - 0 Error(s), 1 Warning(s).
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+No STLink detected
+Cannot connect to ST-LINK!
+No STLink detected
+Cannot connect to ST-LINK!
+No STLink detected
+Cannot connect to ST-LINK!
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+No STLink detected
+Cannot connect to ST-LINK!
+No STLink detected
+Cannot connect to ST-LINK!
+No STLink detected
+Cannot connect to ST-LINK!
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+No STLink detected
+Cannot connect to ST-LINK!
+No STLink detected
+Cannot connect to ST-LINK!
+No STLink detected
+Cannot connect to ST-LINK!
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+No STLink detected
+Cannot connect to ST-LINK!
+No STLink detected
+Cannot connect to ST-LINK!
+No STLink detected
+Cannot connect to ST-LINK!
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+No STLink detected
+Cannot connect to ST-LINK!
+No STLink detected
+Cannot connect to ST-LINK!
+No STLink detected
+Cannot connect to ST-LINK!
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface

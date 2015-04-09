@@ -1,0 +1,29 @@
+*** Creating Trace Output File '.\output\cathack.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\output\startup_stm32f0xx.o"'
+### List of Objects: adding '".\output\main.o"'
+### List of Objects: adding '".\output\pd_pwm.o"'
+### List of Objects: adding '".\output\utils.o"'
+### List of Objects: adding '".\output\pd_gpio.o"'
+### List of Objects: adding '".\output\stm32f0xx_gpio.o"'
+### List of Objects: adding '".\output\stm32f0xx_rcc.o"'
+### List of Objects: adding '".\output\stm32f0xx_tim.o"'
+### List of Objects: adding '".\output\system_stm32f0xx.o"'
+### List of Objects: adding '".\output\stm32f0xx_misc.o"'
+### List of Objects: adding '".\output\stm32f0xx_adc.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M0 ".\output\startup_stm32f0xx.o" ".\output\main.o" ".\output\pd_pwm.o" ".\output\utils.o" ".\output\pd_gpio.o" ".\output\stm32f0xx_gpio.o" ".\output\stm32f0xx_rcc.o" ".\output\stm32f0xx_tim.o" ".\output\system_stm32f0xx.o" ".\output\stm32f0xx_misc.o" ".\output\stm32f0xx_adc.o" --strict --scatter ".\output\cathack.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\obj\cathack.map" -o ".\output\cathack.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\output\cathack.axf'
+### ADS-LD Command File: '.\output\cathack.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\output\cathack.lnp', Handle=0x00000418
+### Writing '.lnp' file
+### ADS-LD Command file '.\output\cathack.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

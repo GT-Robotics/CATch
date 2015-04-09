@@ -1,0 +1,331 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\cathack.uvproj
+Project File Date:  04/07/2015
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling startup_stm32f0xx.s...
+compiling main.c...
+src\main.c(1): error:  #5: cannot open source input file "stm32f10x.h": No such file or directory
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(1): error:  #5: cannot open source input file "stm32f10x.h": No such file or directory
+compiling stm32f0xx_gpio.c...
+..\Libraries\CMSIS\ST\STM32F0xx\Include\stm32f0xx.h(3196): error:  #5: cannot open source input file "stm32f0xx_conf.h": No such file or directory
+compiling stm32f0xx_rcc.c...
+..\Libraries\CMSIS\ST\STM32F0xx\Include\stm32f0xx.h(3196): error:  #5: cannot open source input file "stm32f0xx_conf.h": No such file or directory
+compiling stm32f0xx_tim.c...
+..\Libraries\CMSIS\ST\STM32F0xx\Include\stm32f0xx.h(3196): error:  #5: cannot open source input file "stm32f0xx_conf.h": No such file or directory
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(1): error:  #5: cannot open source input file "stm32f10x.h": No such file or directory
+compiling stm32f0xx_gpio.c...
+..\Libraries\CMSIS\ST\STM32F0xx\Include\stm32f0xx.h(3196): error:  #5: cannot open source input file "stm32f0xx_conf.h": No such file or directory
+compiling stm32f0xx_rcc.c...
+..\Libraries\CMSIS\ST\STM32F0xx\Include\stm32f0xx.h(3196): error:  #5: cannot open source input file "stm32f0xx_conf.h": No such file or directory
+compiling stm32f0xx_tim.c...
+..\Libraries\CMSIS\ST\STM32F0xx\Include\stm32f0xx.h(3196): error:  #5: cannot open source input file "stm32f0xx_conf.h": No such file or directory
+Target not created
+Build target 'Target 1'
+compiling main.c...
+..\Libraries\CMSIS\ST\STM32F0xx\Include\stm32f0xx.h(3196): error:  #5: cannot open source input file "stm32f0xx_conf.h": No such file or directory
+compiling stm32f0xx_gpio.c...
+..\Libraries\CMSIS\ST\STM32F0xx\Include\stm32f0xx.h(3196): error:  #5: cannot open source input file "stm32f0xx_conf.h": No such file or directory
+compiling stm32f0xx_rcc.c...
+..\Libraries\CMSIS\ST\STM32F0xx\Include\stm32f0xx.h(3196): error:  #5: cannot open source input file "stm32f0xx_conf.h": No such file or directory
+compiling stm32f0xx_tim.c...
+..\Libraries\CMSIS\ST\STM32F0xx\Include\stm32f0xx.h(3196): error:  #5: cannot open source input file "stm32f0xx_conf.h": No such file or directory
+Target not created
+Build target 'Target 1'
+compiling main.c...
+..\Libraries\CMSIS\ST\STM32F0xx\Include\stm32f0xx.h(3196): error:  #5: cannot open source input file "stm32f0xx_conf.h": No such file or directory
+compiling stm32f0xx_gpio.c...
+..\Libraries\CMSIS\ST\STM32F0xx\Include\stm32f0xx.h(3196): error:  #5: cannot open source input file "stm32f0xx_conf.h": No such file or directory
+compiling stm32f0xx_rcc.c...
+..\Libraries\CMSIS\ST\STM32F0xx\Include\stm32f0xx.h(3196): error:  #5: cannot open source input file "stm32f0xx_conf.h": No such file or directory
+compiling stm32f0xx_tim.c...
+..\Libraries\CMSIS\ST\STM32F0xx\Include\stm32f0xx.h(3196): error:  #5: cannot open source input file "stm32f0xx_conf.h": No such file or directory
+compiling system_stm32f0xx.c...
+..\Libraries\CMSIS\ST\STM32F0xx\Include\stm32f0xx.h(3196): error:  #5: cannot open source input file "stm32f0xx_conf.h": No such file or directory
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(15): error:  #136: struct "<unnamed>" has no field "CRL"
+src\main.c(21): error:  #136: struct "<unnamed>" has no field "CRL"
+src\main.c(30): error:  #20: identifier "RCC_APB2Periph_GPIOC" is undefined
+src\main.c(31): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+src\main.c(34): error:  #20: identifier "GPIO_Mode_Out_PP" is undefined
+src\main.c(41): error:  #268: declaration may not appear after executable statement in block
+src\main.c(42): error:  #268: declaration may not appear after executable statement in block
+src\main.c(60): error:  #18: expected a ")"
+src\main.c(61): error:  #65: expected a ";"
+src\main.c(66): warning:  #111-D: statement is unreachable
+src\main.c(67): warning:  #1-D: last line of file ends without a newline
+compiling stm32f0xx_gpio.c...
+compiling stm32f0xx_rcc.c...
+compiling stm32f0xx_tim.c...
+compiling system_stm32f0xx.c...
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(15): error:  #136: struct "<unnamed>" has no field "CRL"
+src\main.c(21): error:  #136: struct "<unnamed>" has no field "CRL"
+src\main.c(30): error:  #20: identifier "RCC_APB2Periph_GPIOC" is undefined
+src\main.c(31): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+src\main.c(34): error:  #20: identifier "GPIO_Mode_Out_PP" is undefined
+src\main.c(41): error:  #268: declaration may not appear after executable statement in block
+src\main.c(42): error:  #268: declaration may not appear after executable statement in block
+src\main.c(60): error:  #18: expected a ")"
+src\main.c(61): error:  #65: expected a ";"
+src\main.c(66): warning:  #111-D: statement is unreachable
+src\main.c(67): warning:  #1-D: last line of file ends without a newline
+compiling pd_gpio.c...
+compiling pd_pwm.c...
+compiling utils.c...
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(19): error:  #136: struct "<unnamed>" has no field "CRL"
+src\main.c(25): error:  #136: struct "<unnamed>" has no field "CRL"
+src\main.c(31): warning:  #223-D: function "PWM_Configuration" declared implicitly
+src\main.c(33): error:  #268: declaration may not appear after executable statement in block
+src\main.c(35): error:  #20: identifier "RCC_APB2Periph_GPIOC" is undefined
+src\main.c(36): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+src\main.c(39): error:  #20: identifier "GPIO_Mode_Out_PP" is undefined
+src\main.c(46): error:  #268: declaration may not appear after executable statement in block
+src\main.c(47): error:  #268: declaration may not appear after executable statement in block
+src\main.c(65): error:  #18: expected a ")"
+src\main.c(66): error:  #65: expected a ";"
+src\main.c(71): warning:  #111-D: statement is unreachable
+src\main.c(72): warning:  #1-D: last line of file ends without a newline
+compiling pd_gpio.c...
+compiling pd_pwm.c...
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(19): error:  #136: struct "<unnamed>" has no field "CRL"
+src\main.c(25): error:  #136: struct "<unnamed>" has no field "CRL"
+src\main.c(31): warning:  #223-D: function "PWM_Configuration" declared implicitly
+src\main.c(33): error:  #268: declaration may not appear after executable statement in block
+src\main.c(35): error:  #20: identifier "RCC_APB2Periph_GPIOC" is undefined
+src\main.c(36): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+src\main.c(39): error:  #20: identifier "GPIO_Mode_Out_PP" is undefined
+src\main.c(46): error:  #268: declaration may not appear after executable statement in block
+src\main.c(47): error:  #268: declaration may not appear after executable statement in block
+src\main.c(65): error:  #18: expected a ")"
+src\main.c(66): error:  #65: expected a ";"
+src\main.c(71): warning:  #111-D: statement is unreachable
+src\main.c(72): warning:  #1-D: last line of file ends without a newline
+compiling pd_pwm.c...
+src\pd_pwm.c(5): error:  #147-D: declaration is incompatible with "void PWM_Set(uint16_t, uint16_t, uint16_t, uint16_t, uint16_t, uint16_t, uint16_t, uint16_t, uint16_t, uint16_t, uint16_t, uint16_t)" (declared at line 27 of "src\pd_pwm.h")
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(19): error:  #136: struct "<unnamed>" has no field "CRL"
+src\main.c(25): error:  #136: struct "<unnamed>" has no field "CRL"
+src\main.c(31): warning:  #223-D: function "PWM_Configuration" declared implicitly
+src\main.c(33): error:  #268: declaration may not appear after executable statement in block
+src\main.c(35): error:  #20: identifier "RCC_APB2Periph_GPIOC" is undefined
+src\main.c(36): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+src\main.c(39): error:  #20: identifier "GPIO_Mode_Out_PP" is undefined
+src\main.c(46): error:  #268: declaration may not appear after executable statement in block
+src\main.c(47): error:  #268: declaration may not appear after executable statement in block
+src\main.c(65): error:  #18: expected a ")"
+src\main.c(66): error:  #65: expected a ";"
+src\main.c(71): warning:  #111-D: statement is unreachable
+src\main.c(72): warning:  #1-D: last line of file ends without a newline
+compiling pd_pwm.c...
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(21): error:  #136: struct "<unnamed>" has no field "CRL"
+src\main.c(27): error:  #136: struct "<unnamed>" has no field "CRL"
+src\main.c(34): error:  #268: declaration may not appear after executable statement in block
+src\main.c(36): error:  #20: identifier "RCC_APB2Periph_GPIOC" is undefined
+src\main.c(37): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+src\main.c(40): error:  #20: identifier "GPIO_Mode_Out_PP" is undefined
+src\main.c(47): error:  #268: declaration may not appear after executable statement in block
+src\main.c(48): error:  #268: declaration may not appear after executable statement in block
+src\main.c(66): error:  #18: expected a ")"
+src\main.c(67): error:  #65: expected a ";"
+src\main.c(72): warning:  #111-D: statement is unreachable
+src\main.c(73): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(21): error:  #136: struct "<unnamed>" has no field "CRL"
+src\main.c(27): error:  #136: struct "<unnamed>" has no field "CRL"
+src\main.c(34): error:  #268: declaration may not appear after executable statement in block
+src\main.c(36): error:  #20: identifier "RCC_APB2Periph_GPIOC" is undefined
+src\main.c(37): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+src\main.c(40): error:  #20: identifier "GPIO_Mode_Out_PP" is undefined
+src\main.c(47): error:  #268: declaration may not appear after executable statement in block
+src\main.c(48): error:  #268: declaration may not appear after executable statement in block
+src\main.c(66): error:  #18: expected a ")"
+src\main.c(67): error:  #65: expected a ";"
+src\main.c(72): warning:  #111-D: statement is unreachable
+src\main.c(73): warning:  #1-D: last line of file ends without a newline
+compiling pd_pwm.c...
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(34): error:  #268: declaration may not appear after executable statement in block
+src\main.c(36): error:  #20: identifier "RCC_APB2Periph_GPIOC" is undefined
+src\main.c(39): error:  #268: declaration may not appear after executable statement in block
+src\main.c(40): error:  #268: declaration may not appear after executable statement in block
+src\main.c(58): error:  #18: expected a ")"
+src\main.c(59): error:  #65: expected a ";"
+src\main.c(64): warning:  #111-D: statement is unreachable
+src\main.c(65): warning:  #1-D: last line of file ends without a newline
+src\main.c(34): warning:  #177-D: variable "GPIO_InitStructure" was declared but never referenced
+compiling pd_gpio.c...
+src\pd_gpio.c(6): warning:  #177-D: variable "EXTI_InitStructure" was declared but never referenced
+src\pd_gpio.c(8): warning:  #177-D: variable "NVIC_InitStructure" was declared but never referenced
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(34): error:  #268: declaration may not appear after executable statement in block
+src\main.c(36): error:  #20: identifier "RCC_APB2Periph_GPIOC" is undefined
+src\main.c(39): error:  #268: declaration may not appear after executable statement in block
+src\main.c(40): error:  #268: declaration may not appear after executable statement in block
+src\main.c(58): error:  #18: expected a ")"
+src\main.c(59): error:  #65: expected a ";"
+src\main.c(64): warning:  #111-D: statement is unreachable
+src\main.c(65): warning:  #1-D: last line of file ends without a newline
+src\main.c(34): warning:  #177-D: variable "GPIO_InitStructure" was declared but never referenced
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(33): error:  #268: declaration may not appear after executable statement in block
+src\main.c(35): error:  #20: identifier "RCC_APB2Periph_GPIOC" is undefined
+src\main.c(38): error:  #268: declaration may not appear after executable statement in block
+src\main.c(39): error:  #268: declaration may not appear after executable statement in block
+src\main.c(57): error:  #18: expected a ")"
+src\main.c(58): error:  #65: expected a ";"
+src\main.c(63): warning:  #111-D: statement is unreachable
+src\main.c(64): warning:  #1-D: last line of file ends without a newline
+src\main.c(33): warning:  #177-D: variable "GPIO_InitStructure" was declared but never referenced
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(33): error:  #20: identifier "RCC_APB2Periph_GPIOC" is undefined
+src\main.c(36): error:  #268: declaration may not appear after executable statement in block
+src\main.c(37): error:  #268: declaration may not appear after executable statement in block
+src\main.c(57): warning:  #111-D: statement is unreachable
+src\main.c(58): warning:  #1-D: last line of file ends without a newline
+src\main.c(36): warning:  #177-D: variable "temp" was declared but never referenced
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(36): error:  #268: declaration may not appear after executable statement in block
+src\main.c(37): error:  #268: declaration may not appear after executable statement in block
+src\main.c(57): warning:  #111-D: statement is unreachable
+src\main.c(58): warning:  #1-D: last line of file ends without a newline
+src\main.c(36): warning:  #177-D: variable "temp" was declared but never referenced
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(35): error:  #20: identifier "GPIO_InitStructure" is undefined
+src\main.c(42): error:  #268: declaration may not appear after executable statement in block
+src\main.c(43): error:  #268: declaration may not appear after executable statement in block
+src\main.c(63): warning:  #111-D: statement is unreachable
+src\main.c(64): warning:  #1-D: last line of file ends without a newline
+src\main.c(42): warning:  #177-D: variable "temp" was declared but never referenced
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(32): warning:  #223-D: function "GPIO_Configuration" declared implicitly
+src\main.c(35): error:  #268: declaration may not appear after executable statement in block
+src\main.c(36): error:  #268: declaration may not appear after executable statement in block
+src\main.c(56): warning:  #111-D: statement is unreachable
+src\main.c(57): warning:  #1-D: last line of file ends without a newline
+src\main.c(35): warning:  #177-D: variable "temp" was declared but never referenced
+compiling pd_gpio.c...
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(7): error:  #5: cannot open source input file "pd_gpiom.h": No such file or directory
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(36): error:  #268: declaration may not appear after executable statement in block
+src\main.c(37): error:  #268: declaration may not appear after executable statement in block
+src\main.c(57): warning:  #111-D: statement is unreachable
+src\main.c(58): warning:  #1-D: last line of file ends without a newline
+src\main.c(36): warning:  #177-D: variable "temp" was declared but never referenced
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(58): warning:  #111-D: statement is unreachable
+src\main.c(59): warning:  #1-D: last line of file ends without a newline
+src\main.c(32): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=6512 RO-data=224 RW-data=36 ZI-data=1636  
+FromELF: creating hex file...
+".\output\cathack.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+src\main.c(59): warning:  #111-D: statement is unreachable
+src\main.c(60): warning:  #1-D: last line of file ends without a newline
+src\main.c(32): warning:  #177-D: variable "temp" was declared but never referenced
+src\main.c(33): warning:  #550-D: variable "count" was set but never used
+compiling pd_gpio.c...
+linking...
+Program Size: Code=6556 RO-data=224 RW-data=36 ZI-data=1636  
+FromELF: creating hex file...
+".\output\cathack.axf" - 0 Error(s), 4 Warning(s).
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+Connected via SWD.
+Device ID:0x440 
+Device family :STM32F0xx
+Flash Programming:
+  File : C:\Users\HunJ_VAIO\Google Flash Programming...
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±± 0%€€€€€€€€€€€€€€€ 30%€€€€€€€€€€€€€€€ 60%€€€€€€€€€€€€€€€ 90%€€€€€ 100%
+Flash memory programmed in 0mn and 1s and 170ms.
+Programming Complete.
+MCU Reset.
+Build target 'Target 1'
+compiling main.c...
+src\main.c(55): warning:  #111-D: statement is unreachable
+src\main.c(56): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=6552 RO-data=224 RW-data=36 ZI-data=1636  
+FromELF: creating hex file...
+".\output\cathack.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=6552 RO-data=224 RW-data=36 ZI-data=1636  
+FromELF: creating hex file...
+".\output\cathack.axf" - 0 Error(s), 0 Warning(s).
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+Connected via SWD.
+Device ID:0x440 
+Device family :STM32F0xx
+Flash Programming:
+  File : C:\Users\HunJ_VAIO\Google Flash Programming...
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±± 0%€€€€€€€€€€€€€€€ 30%€€€€€€€€€€€€€€€ 60%€€€€€€€€€€€€€€€ 90%€€€€€ 100%
+Flash memory programmed in 0mn and 1s and 154ms.
+Programming Complete.
+MCU Reset.
+"C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\ST-LINK_CLI.exe" -C SWD -P "C:\Users\HunJ_VAIO\Google µÂ∂Û¿Ã∫Í\STM32F0\project\cathack\output\cathack.HEX" -Rst
+STM32 ST-LINK CLI v1.2.8
+STM32 ST-LINK Command Line Interface
+Connected via SWD.
+Device ID:0x440 
+Device family :STM32F0xx
+Flash Programming:
+  File : C:\Users\HunJ_VAIO\Google Flash Programming...
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±± 0%€€€€€€€€€€€€€€€ 30%€€€€€€€€€€€€€€€ 60%€€€€€€€€€€€€€€€ 90%€€€€€ 100%
+Flash memory programmed in 0mn and 1s and 155ms.
+Programming Complete.
+MCU Reset.

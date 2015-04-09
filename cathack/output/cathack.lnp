@@ -1,0 +1,4 @@
+--cpu Cortex-M0 ".\output\startup_stm32f0xx.o" ".\output\main.o" ".\output\pd_pwm.o" ".\output\utils.o" ".\output\pd_gpio.o" ".\output\stm32f0xx_gpio.o" ".\output\stm32f0xx_rcc.o" ".\output\stm32f0xx_tim.o" ".\output\system_stm32f0xx.o" ".\output\stm32f0xx_misc.o" ".\output\stm32f0xx_adc.o" --strict --scatter ".\output\cathack.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\obj\cathack.map" -o ".\output\cathack.axf"
