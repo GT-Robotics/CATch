@@ -1,4 +1,5 @@
 # cathack by [STM32F0-DISTCOVERY](http://www.st.com/web/catalog/tools/FM116/SC959/SS1532/PF253215?sc=internet/evalboard/product/253215.jsp)
+IDE : [Keil MDK-ARM for STM32F0](http://www2.keil.com/stmicroelectronics-stm32/mdk)
 
 * PB1 ADC1
  * Trigger by TIM3
