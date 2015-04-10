@@ -8,7 +8,8 @@ void PWM_Set(uint16_t duty)
 }
 
 void PWM_SetP(uint16_t percent)
-{			  
+{
+	percent = percent < 0 ? 0 : percent > 100 ? 100 : percent; 			  
 	TIM2->CCR4 = SERVO_MIN + ((SERVO_MAX - SERVO_MIN) * percent / 100);
 }
 
